@@ -1,0 +1,126 @@
+{
+  "source_event": "t:55933f3a-5c78-4182-b233-1c9e9cdc711c",
+  "generator_sha256": "5107fa3d0fda1b5b8b3e780ede712cf380a98eca809406a6d53be647d8f5f7b2",
+  "seed": 20260514,
+  "score_fields": [
+    "correctness",
+    "completeness",
+    "clarity",
+    "creativity",
+    "constraint_adherence"
+  ],
+  "archived_commit": "090484a",
+  "surviving_commit": "b21992477567ef1bd4d564191bfa2378354d579f",
+  "snapshots": [
+    {
+      "ref": "2442b493c0b6eb2fcd3045c77bf5b463b29b31c5",
+      "commit": "2442b493c0b6eb2fcd3045c77bf5b463b29b31c5",
+      "surviving_commit_is_ancestor": true,
+      "sessions": [
+        {
+          "session": 1,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        },
+        {
+          "session": 2,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        }
+      ],
+      "generator_stdout": "Scored session 1 natively: 40 entries.\nScored session 2 natively: 40 entries.\n"
+    },
+    {
+      "ref": "37df6a31733c0b979d0be7c920f6691c322d81dd",
+      "commit": "37df6a31733c0b979d0be7c920f6691c322d81dd",
+      "surviving_commit_is_ancestor": true,
+      "sessions": [
+        {
+          "session": 1,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        },
+        {
+          "session": 2,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        }
+      ],
+      "generator_stdout": "Scored session 1 natively: 40 entries.\nScored session 2 natively: 40 entries.\n"
+    },
+    {
+      "ref": "9cbb5d8a3bb1b0b9b2d91a7029e657b7e9d89887",
+      "commit": "9cbb5d8a3bb1b0b9b2d91a7029e657b7e9d89887",
+      "surviving_commit_is_ancestor": true,
+      "sessions": [
+        {
+          "session": 1,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        },
+        {
+          "session": 2,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        }
+      ],
+      "generator_stdout": "Scored session 1 natively: 40 entries.\nScored session 2 natively: 40 entries.\n"
+    },
+    {
+      "ref": "4efb64f507037911de958de673b3c24a5d5d4034",
+      "commit": "4efb64f507037911de958de673b3c24a5d5d4034",
+      "surviving_commit_is_ancestor": true,
+      "sessions": [
+        {
+          "session": 1,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        },
+        {
+          "session": 2,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        }
+      ],
+      "generator_stdout": "Scored session 1 natively: 40 entries.\nScored session 2 natively: 40 entries.\n"
+    },
+    {
+      "ref": "b21992477567ef1bd4d564191bfa2378354d579f",
+      "commit": "b21992477567ef1bd4d564191bfa2378354d579f",
+      "surviving_commit_is_ancestor": true,
+      "sessions": [
+        {
+          "session": 1,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        },
+        {
+          "session": 2,
+          "rows": 40,
+          "exact_matching_rows": 40,
+          "matching_score_values": 200,
+          "mismatches": []
+        }
+      ],
+      "generator_stdout": "Scored session 1 natively: 40 entries.\nScored session 2 natively: 40 entries.\n"
+    }
+  ]
+}
